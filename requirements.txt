@@ -1,0 +1,21 @@
+# PGP Encryption Tool - Python Dependencies
+# Updated for pure Python implementation (no external GPG required)
+
+# Core cryptography library for all encryption operations
+cryptography>=41.0.0
+
+# IRC client library for secure chat functionality
+irc>=20.3.0
+
+# GUI framework (usually included with Python)
+# tkinter is part of Python standard library
+
+# Image processing for GUI (optional, for better icons)
+pillow>=10.0.0
+
+# Packaging for Windows executable
+pyinstaller>=5.13.0
+
+# Note: python-gnupg dependency removed - now using pure Python implementation
+# Note: secure-delete removed - implemented custom secure deletion
+
