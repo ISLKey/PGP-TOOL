@@ -3,6 +3,9 @@ By Jamie Johnson (TriggerHappyMe).
 Intercom Services London
 
 A secure, offline PGP encryption and decryption tool with a user-friendly GUI interface for Windows.
+<img width="492" height="474" alt="Screenshot 2025-08-22 225620" src="https://github.com/user-attachments/assets/b7d72afe-02a0-4a3d-9fe6-de132f55f29d" />
+<img width="797" height="773" alt="Screenshot 2025-08-22 225656" src="https://github.com/user-attachments/assets/648abe9f-9e34-419e-8f90-abda2a230514" />
+<img width="800" height="778" alt="Screenshot 2025-08-22 225743" src="https://github.com/user-attachments/assets/f162b951-b9d5-4a7c-88bf-8f62f5ee07d1" />
 
 ## Features
 
