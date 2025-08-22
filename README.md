@@ -1,4 +1,4 @@
-# PGP Encryption Tool
+# PGP Encryption Tool By Jamie Johnson (TriggerHappyMe) Intercom Services London
 
 A secure, offline PGP encryption and decryption tool with a user-friendly GUI interface for Windows.
 
