@@ -3,9 +3,7 @@ By Jamie Johnson (TriggerHappyMe).
 Intercom Services London
 
 A secure, offline PGP encryption and decryption tool with a user-friendly GUI interface for Windows.
-<img width="492" height="474" alt="Screenshot 2025-08-22 225620" src="https://github.com/user-attachments/assets/b7d72afe-02a0-4a3d-9fe6-de132f55f29d" />
-<img width="797" height="773" alt="Screenshot 2025-08-22 225656" src="https://github.com/user-attachments/assets/648abe9f-9e34-419e-8f90-abda2a230514" />
-<img width="800" height="778" alt="Screenshot 2025-08-22 225743" src="https://github.com/user-attachments/assets/f162b951-b9d5-4a7c-88bf-8f62f5ee07d1" />
+
 
 ## Features
 
@@ -15,6 +13,7 @@ A secure, offline PGP encryption and decryption tool with a user-friendly GUI in
 - **PGP Encryption/Decryption**: Industry-standard OpenPGP implementation
 - **Emergency Kill Switch**: Instantly delete all keys and data when needed
 - **Burn Message**: Securely delete messages after reading
+<img width="492" height="474" alt="Screenshot 2025-08-22 225620" src="https://github.com/user-attachments/assets/b7d72afe-02a0-4a3d-9fe6-de132f55f29d" />
 
 ### 🔑 Key Management
 - **Generate Key Pairs**: Create RSA keys with customizable key sizes (2048, 3072, 4096 bits)
@@ -22,17 +21,25 @@ A secure, offline PGP encryption and decryption tool with a user-friendly GUI in
 - **Contact Management**: Store and manage friends' public keys
 - **Key Backup/Restore**: Create encrypted backups of your keys
 
+<img width="797" height="773" alt="Screenshot 2025-08-22 225656" src="https://github.com/user-attachments/assets/648abe9f-9e34-419e-8f90-abda2a230514" />
+
+
 ### 💬 Message Handling
 - **Compose Messages**: User-friendly interface for writing encrypted messages
 - **Encrypt Messages**: Encrypt messages for specific recipients
 - **Decrypt Messages**: Decrypt received messages with your private key
 - **Message History**: Keep track of sent and received messages
+<img width="800" height="778" alt="Screenshot 2025-08-22 225743" src="https://github.com/user-attachments/assets/f162b951-b9d5-4a7c-88bf-8f62f5ee07d1" />
 
 ### 🛡️ Security Features
 - **Entropy Collection**: Secure random number generation using mouse and keyboard input
 - **Passphrase Protection**: All private keys are protected with strong passphrases
 - **Secure Deletion**: Multiple overwrite passes for sensitive data deletion
 - **No Data Leakage**: All operations performed locally, no cloud or network access
+<img width="946" height="783" alt="Screenshot 2025-08-22 230201" src="https://github.com/user-attachments/assets/07e6e477-b398-4f76-8835-a6e52a83b208" />
+<img width="954" height="784" alt="Screenshot 2025-08-22 230310" src="https://github.com/user-attachments/assets/ea8a660c-1710-468c-ad5a-fd4f6db2b301" />
+<img width="944" height="773" alt="Screenshot 2025-08-22 230421" src="https://github.com/user-attachments/assets/6519cec3-b189-4386-992a-1337cb1a3778" />
+
 
 ## Installation
 
