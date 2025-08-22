@@ -10,7 +10,7 @@ A secure, offline PGP encryption and decryption tool with a user-friendly GUI in
 ## Features
 
 ### 🔐 Core Security Features
-- **Complete Offline Operation**: No internet connection required or used
+- **Complete Offline Operation**: No internet connection required or used #(coming soon)#
 - **Secure Key Generation**: Uses entropy collection from mouse movements and keyboard input
 - **PGP Encryption/Decryption**: Industry-standard OpenPGP implementation
 - **Emergency Kill Switch**: Instantly delete all keys and data when needed
