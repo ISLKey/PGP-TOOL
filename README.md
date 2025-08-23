@@ -43,17 +43,7 @@ A secure, offline PGP encryption and decryption tool with a user-friendly GUI in
 
 ## Installation
 
-### Option 1: Portable Version (Recommended)
-1. Download `PGP_Tool_Portable.zip`
-2. Extract to any folder
-3. Double-click `PGP_Tool.exe` to run
 
-### Option 2: Installer Version
-1. Download `PGP_Tool_Installer.zip`
-2. Extract to your desired installation folder
-3. Run `PGP_Tool.exe` from the extracted folder
-
-### Option 3: Run from Source
 1. Install Python 3.7+ and required dependencies:
    ```bash
    pip install cryptography python-gnupg pillow
